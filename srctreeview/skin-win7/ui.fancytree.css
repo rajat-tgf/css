@@ -1,0 +1,57 @@
+/*!
+ * Fancytree "Win7" skin.
+ *
+ * DON'T EDIT THE CSS FILE DIRECTLY, since it is automatically generated from 385px tree
+ * the LESS templates.
+ */
+/*******************************************************************************
+ * Common Styles for Fancytree Skins.
+ *
+ * This section is automatically generated from the `skin-common.less` template. tree font
+ ******************************************************************************/
+/*------------------------------------------------------------------------------
+ * Helpers
+ *----------------------------------------------------------------------------*/
+.ui-helper-hidden {
+  display: none;
+}
+/*------------------------------------------------------------------------------
+ * Container and UL / LI
+ *---------------------------------------------------------------------------- skin*/
+ul.fancytree-container {
+  font-family:'century gothic', arial, sans-serif;
+  font-size: 13pt;
+  white-space: nowrap;
+  padding: 1px;
+  margin: 0;
+  background-color:#FFF;
+  border: 0px dotted gray;
+  overflow: auto;
+  min-height: 0%;
+  position: relative;
+}
+ul.fancytree-container ul {
+  padding: 0 0 0 5px;
+  font-size: 11pt;
+  margin: 0;
+}
+ul.fancytree-container li {
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+  -moz-background-clip: border;
+  -moz-background-inline-policy: continuous;
+  -moz-background-origin: padding;
+  background-attachment: scroll;
+  background-color: transparent;
+  background-position: 0px 0px;
+  background-repeat: repeat-y;
+  background-image: none;
+  margin: 0;
+}
+
+
+
+
+
+
