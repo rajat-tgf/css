@@ -1,0 +1,441 @@
+﻿table.gridtable69 {
+	font-family:'century gothic', arial, sans-serif;
+	background-color: #fafafa;
+	border: 1px #E0E0E0 solid;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	font-size: 11px;
+	color: #666666;
+}
+table.gridtable69 th {
+	font-size:14px;
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: #E0E0E0;
+	background-color:#F2F2F2;
+}
+table.gridtable69 td {
+	border-bottom: 1px #6699CC dotted;
+font-family:'century gothic', arial, sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	color: #666666;
+	background-color: #fafafa;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+	padding-right: 0px;
+}
+
+
+	table.gridtable_report {
+	font-family:'century gothic', arial, sans-serif;
+	color:#333333;
+	font-size:13px;
+	}
+	table.gridtable_report th {
+	font-size:22px;
+	color:#FFFFFF;			
+	background-color: #8DB3E2;
+	}
+	table.gridtable_report td {
+	background-color: #DBE5F1;
+	color:#333333;
+	font-size:13px;
+	
+	}
+
+
+
+	div#notes-contain { width: 100%; margin: 5px 0; alignment-adjust:central; }
+	div#notes-contain table { margin: 1em 0; border-collapse: collapse; width: 100%; alignment-adjust:central; }
+	div#notes-contain table td { border: 0px; padding: .3em 2px; text-align: left; font-size:13px ; color:#000000; }
+	div#notes-contain table th { border: 0; padding: .1em 2px; text-align: left; background:#FFFF; font-style:normal; color:#666666; font-size:12px; }
+
+
+
+
+
+
+.zui-table {
+	font-size:13px;
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.zui-table thead th {
+font-size:28px;
+border-width: 1px;
+padding: 8px;
+border-style:solid;
+border-color: #000000;
+background-color: #8DB3E2;
+text-align:center;
+}
+.zui-table tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 6px;
+	font-size:13px;
+}
+.zui-table-rounded {
+    border: none;
+}
+.zui-table-rounded thead th {
+    background-color: #8DB3E2;
+    border: none;
+    color:#FFF;
+}
+.zui-table-rounded thead th:first-child {
+    border-radius: 10px 0 0 0;
+}
+.zui-table-rounded thead th:last-child {
+    border-radius: 0 10px 0 0;
+}
+.zui-table-rounded tbody td {
+    border: none;
+    border-top: solid 1px #CCD6EC;
+    background-color:#E1E8F0;
+	color:#333;
+}
+.zui-table-rounded tbody tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+.zui-table-rounded tbody tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+}
+
+
+	div#entities-contain { width: 99%; margin: 5px 0; alignment-adjust:central; }
+	div#entities-contain table { margin: 1em 0; border-collapse: collapse; width: 99%;font-family:'century gothic', arial, sans-serif;}
+	div#entities-contain table td { border: 1px solid #DBE5F1; padding: .2em 4px; text-align: left; font-size:12px; color:#000000 }
+	div#entities-contain table th { border: 1px solid #DBE5F1; padding: .3em 4px; text-align: left; background:steelblue; font-style:normal; color:#FFF; font-size:12px; }
+
+	div#entities-contain1 { width: 100%; margin: 5px 0; alignment-adjust:central; }
+	div#entities-contain1 table { margin: 1em 0; border-collapse: collapse; width: 100%; alignment-adjust:central;font-family:'century gothic', arial, sans-serif;}
+	div#entities-contain1 table td { border: none; padding: .3em 4px; text-align: left; font-size:12px; color:#000000 }
+	div#entities-contain1 table th { border: none; padding: .5em 4px; text-align: left; background:steelblue; font-style:normal; color:#FFF; font-size:12px; }
+
+table.gridtable3 {
+	font-family:'century gothic', arial, sans-serif;
+	background-color: #FFFFFF;
+	border: none;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	font-size: 11px;
+	color: #669900;
+}
+table.gridtable3 td {
+	border-bottom: 1px #6699CC dotted;
+	font-weight: normal;
+	font-size: 13px;
+	color: #666666;
+	background-color: #FFFFFF;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+	padding-right: 0px;
+}
+
+table.gridtable {
+	font-family:'century gothic', arial, sans-serif;
+	background-color: #FFFFFF;
+	border: none;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	font-size: 11px;
+	color: #669900;
+}
+table.gridtable td {
+	font-family:'century gothic', arial, sans-serif;
+	font-weight: normal;
+	font-size: 13px;
+	color: #666666;
+	background-color: #FFFFFF;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 8px;
+	padding-right: 0px;
+}
+
+
+
+
+
+
+a {text-decoration: none}
+ 
+		body {
+			font-family:'century gothic', arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overflow:auto;
+			height: 100%; 
+			max-height: 100%; 
+			line-height: 1.5em;
+		}
+		
+		#header {
+			position: absolute;
+			color:#FFF;
+			top: 0;
+			left: 0px;
+			width: 100%;
+			height: 130px; 
+			overflow: hidden; /* Disables scrollbars on the header frame. To enable scrollbars, change "hidden" to "scroll" */
+			background-image: url('images/Header.jpg');
+		}
+		#footer {
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+			height: 40px; 
+			overflow: hidden; /* Disables scrollbars on the footer frame. To enable scrollbars, change "hidden" to "scroll" */
+			background:#666;
+		}
+		
+		
+		
+		#logo {
+			width: 100%;
+			padding:0px;
+			font-family:'century gothic', arial, sans-serif;
+			font-size: 40px;
+			font-stretch:extra-expanded;
+			padding:0;
+			padding-top:45px;
+			margin:0;
+			color:#FFF;
+			display: block;
+			text-align:center;
+		}
+		
+		main_menu {
+			font-family:'century gothic', arial, sans-serif;
+			top: 200px; /* Set this to the height of the header */
+			position: absolute;
+			left: 375px; 
+			right: 375px;
+			overflow: hidden; 
+			background: #fff;
+			width: 100%;
+		}
+
+		main {
+			font-family:'century gothic', arial, sans-serif;
+			top: 130px; /* Set this to the height of the header */
+			position: absolute;
+			left: 250px; 
+			right: 0;
+			bottom: 40px;
+			overflow: hidden; 
+			background: #fff;
+		}
+		mainsr {
+			font-family:'century gothic', arial, sans-serif;
+			top: 130px; /* Set this to the height of the header */
+			position: absolute;
+			left: 0; 
+			right: 0;
+			bottom: 0;
+			overflow:scroll; 
+			background: #fff;
+		}
+		
+		.innertube {
+			font-family:'century gothic', arial, sans-serif;
+			margin: 2px; /* Provides padding for the content */
+			overflow: auto; /* Scrollbars will appear on this frame only when there's enough content to require scrolling. To disable scrollbars, change to "hidden", or use "scroll" to enable permanent scrollbars */
+		}
+		
+		p {
+			color: #555;
+		}
+
+
+#nav {
+			font-family:'century gothic', arial, sans-serif;
+			border:#587BA7;
+			border-right-style:solid;
+			position:fixed; 
+			top: 130px;
+			bottom: 40px;
+			left: 0; 
+			width: 250px;
+			overflow: auto; /* Scrollbars will appear on this frame only when there's enough content to require scrolling. To disable scrollbars, change to "hidden", or use "scroll" to enable permanent scrollbars */
+			background: #DADADA; 		
+		}
+
+
+
+h3, h5, h6 
+{ font: 20px 'century gothic', arial, sans-serif;
+  color:#0080C0;
+  font-weight:400;
+  margin: 0 0 10px 0;
+  padding: 15px 0 5px 0;}
+
+h4
+{ font: 16px 'century gothic', arial, sans-serif;
+  color:#333;
+  margin: 0 0 10px 0;
+  padding: 15px 0 5px 0;}
+  
+
+   
+   .ta_dropdown-select select {
+	   font-family:'century gothic', arial, sans-serif;
+	color:#333;
+	width:100%;
+	background:#FFF;
+   font-size: 13px;
+   line-height: 1;
+   border: 2px solid #999;
+   border-radius: 5px;
+   height: 100px;
+   padding:2px
+   }
+   
+ul2 {
+	font: 14px 'century gothic', arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li2 {
+	font: 14px 'century gothic', arial, sans-serif;
+    float:left;
+}
+
+li2 a {
+    display: block;
+    color: white;
+    text-align: center;
+	margin:2px;
+    padding: 9px 16px;
+    text-decoration: none;
+	background-color: steelblue;
+	border-radius: 2px;
+}
+
+li2 a:hover:not(.active) {
+    background-color:#6C8497;
+	color: white;
+}
+
+.active {
+    background-color:#BBC7DB;
+}
+
+ul1 {
+	font-size:13px;
+	font-family:'century gothic', arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    border: 0px solid #555;
+	display: block;
+}
+
+li1 a {
+	font-size:12px;
+    display: block;
+    color: #000;
+    padding: 2px 2px;
+    text-decoration: none;
+	border-radius: 10px;
+}
+
+li1 {
+    text-align: left;
+    border-bottom: 0px solid #555;
+}
+
+li1 a.active {
+	font-size:12px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+li1 a:hover:not(.active) {
+	font-size:12px;
+    color: blue;
+}
+a, a:hover
+{ outline: none;
+font: 12px 'century gothic', arial, sans-serif;
+  text-decoration: underline;
+  color:steelblue;}   
+
+ul3 {
+	font-size:13px;
+	font-family:'century gothic', arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    border: 0px solid #555;
+	display: block;
+}
+
+li3 a {
+	font-size:14px;
+    display: block;
+    color: #000;
+    padding: 3px 3px;
+    text-decoration: none;
+}
+
+li3 {
+    text-align: left;
+    border-bottom: 0px solid #555;
+}
+
+
+li3 a:hover:not(.active) {
+	font-size:14px;
+    color: red;
+}
+
+
+
+select, input, textarea
+{
+	font-family: 'century gothic', arial, sans-serif;
+	width:auto;
+	padding: 4px;
+	font-size:13px;
+}
+
+/*. STYLE FOR THE FLTERS .*/
+
+table.gridtablefilter {
+	font-family:'century gothic', arial, sans-serif;
+	font-size:13px;
+	color:#EFEFEF;
+}
+table.gridtablefilter th {
+	font-family:'century gothic', arial, sans-serif;
+font-size:13px;
+border-width: 1px;
+padding: 8px;
+border-style: solid;
+border-color: #000000;
+background-color: #959595;
+border:2px; }
+
+
+table.gridtablefilter td {
+font-family:'century gothic', arial, sans-serif;
+font-size:13px;
+color:#666666;
+padding: 3px;
+border:none;
+
+}
+
